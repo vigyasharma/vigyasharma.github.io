@@ -5,12 +5,7 @@
 layout: home
 ---
 
-Hi! I'm Vigya Sharma
+<br>
+Hi! I am Vigya Sharma. For a comprehensive summary of my work, please see the ['About Me'](/about) page.
 
-I'm a Principal Engineer at Amazon Search and a Committer & Project Management Committee (PMC) member for Apache Lucene. I specialize in building and scaling distributed search systems.
-
-For a more comprehensive summary of my work, please check out the [About Me](/about.markdown) page.
-
-<!-- [Alt test link 1](/about.markdown)
-[Alt test link 2](/about)
-[Alt test link 3]({{ site.baseurl }}/about) -->
+__
