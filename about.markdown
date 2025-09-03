@@ -6,7 +6,7 @@ permalink: /about/
 
 
 # Vigya Sharma
-I'm a Principal Engineer at Amazon Search and a Committer & PMC member for the [Apache Lucene](https://lucene.apache.org/) project. I specialize in building and scaling distributed search systems.
+I'm a Principal Engineer at Amazon Search and a Committer & PMC member for the [Apache Lucene](https://lucene.apache.org/) project. I specialize in building and scaling distributed search systems. The best way to reach me is through a direct message on my [LinkedIn](https://www.linkedin.com/in/vigyasharma/) profile.
 
 .
 
@@ -51,7 +51,7 @@ Over the next several years, I acted as the area lead for this space, leading mu
   To address this challenge, I led the cross-functional technical initiative for "Autotune", an intelligent system that combines deep observability and metric collection with intelligent decision making, automatic cluster tuning, and feedback learning loops. The system is 'on' by default for all OpenSearch clusters, and works in the background to tune clusters with workload specific optimizations.
 
 <br>
-## Speaking and Writing
+## Speaking, Writing, and Community Work
 
 ### Publications
 - ["Introducing Auto-Tune in Amazon ES" - AWS Big Data Blog (2021)](https://aws.amazon.com/blogs/big-data/introducing-auto-tune-in-amazon-es/)
@@ -62,9 +62,18 @@ Over the next several years, I acted as the area lead for this space, leading mu
 
 ### Conference Talks
 - **OpenSearchCon NA '25 (Upcoming)**: "Adaptive Refresh Strategies for Large-Scale Search Systems"
-- **Community Over Code '24**: "HNSW in Action: Lucene's Secret Sauce for Vector Search" (also served as Search Track Co-Chair)
+- **Community Over Code '24**: "HNSW in Action: Lucene's Secret Sauce for Vector Search"
 - **ApacheCon NA '22**: "Decoupling Indexing and Search Scalability"
 - **AWS Talk Show '21**: Featured speaker on Auto-Tune for Amazon ES
+
+.
+
+### Others
+ * In the summer of '25, served as an industry mentor at Carnegie Mellon University (CMU) for their summer course, ["Applied Software Engineering for the Real World with Distributed Teams"](https://www.cmu.edu/education-office/resources/99-520-course-listings.html).
+
+   It was a uniquely rewarding challenge to introduce college students to a complex open source project like Apache Lucene. Connecting with them and seeing their fresh perspective was a new learning experience for me.
+
+ * I had the honor to serve as Co-Chair for the Search Track at ["Community Over Code, NA. '25"](https://communityovercode.org/schedule/).
 
 <br>
 ## Open Source Work
@@ -126,3 +135,7 @@ Public artifacts for my open source work are readily available on the internet. 
 - Performance Analyzer RCA:
   - Sitting at the heart of Amazon AutoTune, this component is responsible for making cluster tuning decisions. I designed the decision maker and strategy for metrics and decision flow.
 
+<br>
+## Education
+ - **Master of Technology (M.Tech)** - Computer Science, Indian Institute of Technology, Delhi (2011 – 13)
+ - **Bachelor of Technology (B.Tech)** - Computer Science, College of Technology, G.B.P.U.A & T (2007 – 11)
