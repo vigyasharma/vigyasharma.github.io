@@ -42,9 +42,9 @@ Given the diverse nature of customer scenarios and businesses supported by the s
 
 Over the next several years, I acted as the area lead for this space, leading multiple technical efforts to optimize cluster performance and scale shard management.
 
-* I was the primary author and inventor of 'allocation constraints framework' – a mechanism to inject optional hints into the complex shard weight calculations that controlled all shard geometry. My work helped mitigate a recurring shard hotspot problem that emerged with skewed scale-outs in some of our largest clusters. The framework was eventually open-sourced as XXX, and has since been extended to support multiple OpenSearch features like segment replication.
+* I was the primary author and inventor of 'allocation constraints framework' – a mechanism to inject optional hints into the complex shard weight calculations that controlled all shard geometry. My work helped mitigate a recurring shard hotspot problem that emerged with skewed scale-outs in some of our largest clusters. The framework was eventually open-sourced as [OpenSearch#487](https://github.com/opensearch-project/OpenSearch/issues/487), and has since been extended to support multiple OpenSearch features like segment replication.
 
-* I designed and implemented an extreme scale shard allocator for Ultrawarm – the low cost offering for large scale read only indexes. My work increased cluster scale by 10x, supporting ~500,000 shards per cluster. This work has also since been open-sourced as part of XXX.
+* I designed and implemented an extreme scale shard allocator for Ultrawarm – the low cost offering for large scale read only indexes. My work increased cluster scale by 10x, supporting ~500,000 shards per cluster. This work has also since been open-sourced as part of [OpenSearch#4870](https://github.com/opensearch-project/OpenSearch/pull/4870/commits/694c89fd70cf544345b7b370bce7d3498e8587d6).
 
 * Like most complex systems, OpenSearch (and its underlying JVM) offer a multitude of configurable options that can be tuned to provide workload specific optimizations. Not having to worry about these knobs though, is the primary reason customers opt for a managed cloud service. However, given the diverse set of workloads our service would manage, there was no good one size fits all. 
   
